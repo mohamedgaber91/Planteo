@@ -502,6 +502,9 @@ header .row{
         border: 1px solid black;
         margin-bottom: 20px;
     }
+    .forCheck{
+        display: none;
+    }
 }
 .session-1 .card:hover{
     border-radius: 30px;
